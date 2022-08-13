@@ -1,3 +1,10 @@
+# Using for re-code
+
+We have created different branches to switch and re code . For example before2.6 and after2.6 are names from branch , however if you 
+wanna see how 2.6 is implemented we can create a branch named before2.6 and then start our work on it and then we can run the code to 
+check if it works ok, then we can switch back to main branch after stashing the code we wrote on that branch (before2.6)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
