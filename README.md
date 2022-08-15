@@ -7,7 +7,8 @@ check if it works ok, then we can switch back to main branch after deleting ( gi
 
 # Branches we could use
 
-Branch Name: `before2.6` : This covers the  'HomeScreen Product Listing' Section 
+1. Branch Name: `before2.6` : This covers the  'HomeScreen Product Listing'  
+2. Branch Name: `before2.7` : This covers the  'Rating Component' Section 
 
 # Getting Started with Create React App
 
